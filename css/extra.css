@@ -7,8 +7,17 @@ h2 {
 }
 
 h3 {
-  color: coral;
+  color: magenta;
 }
+
+h4 {
+  color: magenta;
+}
+
+h5 {
+  color: blue;
+}
+
 
 body {
   color: darkolive;
@@ -17,7 +26,22 @@ body {
 
 
 /* link */
-a {
+a:link {
   color: indigo;
+
 }
 
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+} 
