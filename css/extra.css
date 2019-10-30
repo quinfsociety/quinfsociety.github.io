@@ -7,11 +7,11 @@ h2 {
 }
 
 h3 {
-  color: magenta;
+  color: green;
 }
 
 h4 {
-  color: magenta;
+  color: green;
 }
 
 h5 {
@@ -33,7 +33,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: green;
+  color: magenta;
 }
 
 /* mouse over link */
