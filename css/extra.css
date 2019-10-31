@@ -27,13 +27,13 @@ body {
 
 /* link */
 a:link {
-  color: indigo;
+  color: hotpink;
 
 }
 
 /* visited link */
 a:visited {
-  color: hotpink;
+  color: indigo;
 }
 
 /* mouse over link */
